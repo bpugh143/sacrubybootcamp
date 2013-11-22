@@ -1,4 +1,5 @@
 sacrubybootcamp
 ===============
 
-First ruby app with sac ruby
+Hello World!
+This is my first ruby app, under the guidence of sac ruby.
